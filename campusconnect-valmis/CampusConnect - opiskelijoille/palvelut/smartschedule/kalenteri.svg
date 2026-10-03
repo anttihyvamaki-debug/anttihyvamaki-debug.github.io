@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440">
+<rect width="800" height="440" fill="#eff6ff"/>
+<rect x="45" y="35" width="710" height="370" rx="16" fill="white"/>
+<rect x="45" y="35" width="710" height="70" rx="16" fill="#0079C2"/>
+<text x="75" y="80" font-family="Arial,sans-serif" font-size="27" font-weight="bold" fill="white">Tilaa opiskelulle, tilaa arjelle</text>
+<g font-family="Arial,sans-serif" font-size="20" fill="#1e293b">
+<text x="85" y="150">Maanantai</text><text x="325" y="150">Tiistai</text><text x="555" y="150">Keskiviikko</text>
+</g>
+<g fill="#e2e8f0"><rect x="75" y="175" width="205" height="70" rx="8"/><rect x="300" y="175" width="205" height="70" rx="8"/><rect x="525" y="175" width="205" height="70" rx="8"/></g>
+<g fill="#0079C2"><rect x="75" y="260" width="205" height="55" rx="8"/><rect x="300" y="260" width="205" height="55" rx="8"/></g>
+<rect x="525" y="260" width="205" height="55" rx="8" fill="#e2e8f0"/>
+<g font-family="Arial,sans-serif" font-size="18" fill="#1e293b"><text x="95" y="218">Työvuoro</text><text x="320" y="218">Työvuoro</text><text x="545" y="218">Työvuoro</text><text x="545" y="294">Vapaa-aikaa</text></g>
+<g font-family="Arial,sans-serif" font-size="18" fill="white"><text x="95" y="294">Opiskelu · 25 min</text><text x="320" y="294">Opiskelu · 30 min</text></g>
+<text x="75" y="370" font-family="Arial,sans-serif" font-size="18" fill="#475569">Pienet opiskelujaksot. Selkeä suunnitelma.</text></svg>
